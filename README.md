@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/QuangTujz/GitHubProfile/main/GitHubImg/giphy2.gif?token=GHSAT0AAAAAABWIWVW5EIJFYN3QWEP72YKUYWNVQ6A" height="50">Hi, I'm Q.Tu </h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="50">Hi, I'm Q.Tu </h1>
 <h3 align="center"> Computer Science | Game Enthusiast </h3>
 <p align="center">
   <a href="https://www.facebook.com/tu.nguyenquang.7923/"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" width="40" height="40"></a>
@@ -42,5 +42,5 @@
 </p>
 <hr>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/QuangTujz/GitHubProfile/main/GitHubImg/giphy1.gif?token=GHSAT0AAAAAABWIWVW4VQHQQDBSDGRZWY44YWNVWEA"> </br>
+  <img src="https://github.com/QuangTujz/GitHubProfile/blob/main/GitHubImg/giphy1.gif"> </br>
   <b><em> I still need to learn a lot to improve myself 🙂 </em></b>
