@@ -8,7 +8,7 @@
 <p align="center">
   <em> Welcome to my profile </em> </br>
   <b><i> Feeling good about learning new things </i></b></br>
-  <img src="https://raw.githubusercontent.com/QuangTujz/GitHubProfile/main/GitHubImg/giphy.gif?token=GHSAT0AAAAAABWIWVW4IIKEGTV2OUKZW4NYYWNUC4A" height="100" width="100">
+  <img src="https://github.com/QuangTujz/GitHubProfile/blob/main/GitHubImg/giphy.gif" height="100" width="100">
 </p>
 🌟<b> Something about me: </b> </br>
 :one: I'm self-taught </br>
