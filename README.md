@@ -1,9 +1,9 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="50">Hi, I'm Q.Tu </h1>
 <h3 align="center"> Computer Science | Game Enthusiast </h3>
 <p align="center">
-  <a href="https://www.facebook.com/tu.nguyenquang.7923/"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" width="40" height="40"></a>
-  <a href="https://www.reddit.com/user/Hinds1159"><img src="https://www.vectorlogo.zone/logos/reddit/reddit-icon.svg" height="40" width="40"></a>
-  <a href="https://www.instagram.com/tu_ng1510/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" height="40" width="40"></a>
+  <a href="https://www.facebook.com/tu.nguyenquang.7923/"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" height="35"></a>
+  <a href="https://www.reddit.com/user/Hinds1159"><img src="https://www.vectorlogo.zone/logos/reddit/reddit-icon.svg" height="35"></a>
+  <a href="https://www.instagram.com/tu_ng1510/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" height="35"></a>
 </p>
 <p align="center">
   <em> Welcome to my profile </em> </br>
