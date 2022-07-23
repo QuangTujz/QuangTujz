@@ -1,22 +1,8 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="50">Hi, I'm Q.Tu </h1>
-<h3 align="center"> Computer Science | Game Enthusiast </h3>
-<p align="center">
-  <a href="https://www.facebook.com/tu.nguyenquang.7923/"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" height="35"></a>
-  <a href="https://www.reddit.com/user/Hinds1159"><img src="https://www.vectorlogo.zone/logos/reddit/reddit-icon.svg" height="35"></a>
-  <a href="https://www.instagram.com/tu_ng1510/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" height="35"></a>
-</p>
+<h1 align="center">Hello </h1>
 <p align="center">
   <em> Welcome to my profile </em> </br>
-  <b><i> Feeling good about learning new things </i></b></br>
   <img src="https://github.com/QuangTujz/GitHubProfile/blob/main/GitHubImg/giphy.gif" height="100" width="100">
 </p>
-🌟<b> Something about me: </b> </br>
-:one: I'm self-taught </br>
-:two: Currently learning about making games </br>
-:three: I used to learn about AI </br>
-:four: I'm not really good at machine learning so I need helps </br>
-:five: Love watching football and basketball </br>
-:six: I like playing video games </br>
 <hr>
 💻<b> Languages I know: </b> </br> 
 <p align="left">
@@ -42,5 +28,4 @@
 </p>
 <hr>
 <p align="center">
-  <img src="https://github.com/QuangTujz/GitHubProfile/blob/main/GitHubImg/giphy1.gif"> </br>
-  <b><em> I still need to learn a lot to improve myself 🙂 </em></b>
+  <b><em> Bye </em></b>
